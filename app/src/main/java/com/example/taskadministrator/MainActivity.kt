@@ -86,7 +86,7 @@ fun TaskCard(
 
 @Preview(showBackground = true)
 @Composable
-fun GreetingPreview() {
+fun TaskAdministratorPreview() {
     TaskAdministratorTheme {
         TaskAdministratorApp()
     }
