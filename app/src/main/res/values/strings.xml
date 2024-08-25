@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Task Administrator</string>
+    <string name="mensaje_tareas_text">All tasks completed</string>
+    <string name="mensaje_inspirador_text">Nice work!</string>
+</resources>
